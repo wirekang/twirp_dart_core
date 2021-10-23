@@ -1,14 +1,7 @@
 name: twirp_dart_core
 description: Core library for using Twirp + Dart
-version: 1.0.0+2
+version: 1.0.0
 homepage: https://github.com/apptreesoftware/twirp_dart_core
-publish_to: none
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
-
-dependencies:
-  http: ^0.13.3
-  requester:
-    git:
-      url: https://github.com/wirekang/requester
